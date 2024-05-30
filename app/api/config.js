@@ -1,4 +1,4 @@
-export const BASE_URL = "https://love.nomorepartiesco.ru/api";
+export const BASE_URL = "https://nika.nomorepartiesco.ru/api";
 // export const BASE_URL = "https://rm-pindie-back.nomoredomainswork.ru/api";
 
 export const endpoints = {
